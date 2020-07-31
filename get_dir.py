@@ -11,3 +11,4 @@ class pwd():
         cwd = os.path.dirname(__file__)
         driver_path = os.path.join(cwd, 'Driver/chromedriver')
         return driver_path
+
